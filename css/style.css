@@ -1,0 +1,17 @@
+  body {
+    margin-top: 28px;
+  }
+  .anchor {
+    padding-top: 70px;
+    margin-top: -70px;
+  }
+
+  .nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .container {
+    max-width: 750px;
+  }
